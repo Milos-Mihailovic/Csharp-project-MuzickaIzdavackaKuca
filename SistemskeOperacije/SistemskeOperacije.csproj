@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FAC3AC19-BD92-4A3E-B3A7-58C4C6AB9C58}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SistemskeOperacije</RootNamespace>
+    <AssemblyName>SistemskeOperacije</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Album\DodajPesmaAlbumSO.cs" />
+    <Compile Include="Album\ObrisiPesmeAlbumSO.cs" />
+    <Compile Include="Album\PretragaPesmeAlbumaSO.cs" />
+    <Compile Include="Album\PronadjiPesmeAlbumaSO.cs" />
+    <Compile Include="Album\vratiPesmaAlbumIDSO.cs" />
+    <Compile Include="Zanr\PretragaZanraSO.cs" />
+    <Compile Include="Album\VratiAlbumIDSO.cs" />
+    <Compile Include="Album\VratiListuAlbumaSO.cs" />
+    <Compile Include="Zanr\VratiZanrIDSO.cs" />
+    <Compile Include="Zanr\VratiListuZanrovaSO.cs" />
+    <Compile Include="Album\ZapamtiAlbumSO.cs" />
+    <Compile Include="Album\KreirajAlbumSO.cs" />
+    <Compile Include="Zanr\ZapamtiZanrSO.cs" />
+    <Compile Include="Izvodjac\VratiIzvodjacIDSO.cs" />
+    <Compile Include="Izvodjac\IzmeniIzvodjacaSO.cs" />
+    <Compile Include="LoginSO.cs" />
+    <Compile Include="Pesma\VratiPesmaIDSO.cs" />
+    <Compile Include="Album\ObrisiAlbumSO.cs" />
+    <Compile Include="OpstaSistemskaOperacija.cs" />
+    <Compile Include="Album\PretragaAlbumaSO.cs" />
+    <Compile Include="Izvodjac\PretragaIzvodjacaSO.cs" />
+    <Compile Include="Pesma\PretragaPesmeSO.cs" />
+    <Compile Include="Album\PronadjiAlbumSO.cs" />
+    <Compile Include="Izvodjac\PronadjiIzvodjacaSO.cs" />
+    <Compile Include="Pesma\PronadjiPesmuSO.cs" />
+    <Compile Include="Pesma\IzmeniPesmuSO.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Izvodjac\VratiListuIzvodjacaSO.cs" />
+    <Compile Include="Pesma\VratiListuPesamaSO.cs" />
+    <Compile Include="Izvodjac\ZapamtiIzvodjacaSO.cs" />
+    <Compile Include="Pesma\ZapamtiPesmuSO.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Broker\Broker.csproj">
+      <Project>{8a7647fe-e838-4a89-839e-046f8fbf66f5}</Project>
+      <Name>Broker</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Domen\Domen.csproj">
+      <Project>{51a84a2a-672e-4f89-931f-faaab26b86bb}</Project>
+      <Name>Domen</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,48 @@
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Kontroler\bin\Debug\Kontroler.dll
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Kontroler\bin\Debug\Kontroler.pdb
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Kontroler\bin\Debug\Broker.dll
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Kontroler\bin\Debug\Domen.dll
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Kontroler\bin\Debug\SistemskeOperacije.dll
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Kontroler\bin\Debug\Broker.pdb
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Kontroler\bin\Debug\Domen.pdb
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Kontroler\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Kontroler\obj\Debug\Kontroler.csprojResolveAssemblyReference.cache
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Kontroler\obj\Debug\Kontroler.csproj.CoreCompileInputs.cache
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Kontroler\obj\Debug\Kontroler.dll
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Kontroler\obj\Debug\Kontroler.pdb
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Kontroler\bin\Debug\Kontroler.dll
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Kontroler\bin\Debug\Kontroler.pdb
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Kontroler\bin\Debug\Broker.dll
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Kontroler\bin\Debug\Domen.dll
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Kontroler\bin\Debug\SistemskeOperacije.dll
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Kontroler\bin\Debug\Broker.pdb
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Kontroler\bin\Debug\Domen.pdb
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Kontroler\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Kontroler\obj\Debug\Kontroler.csprojResolveAssemblyReference.cache
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Kontroler\obj\Debug\Kontroler.csproj.CoreCompileInputs.cache
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Kontroler\obj\Debug\Kontroler.dll
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Kontroler\obj\Debug\Kontroler.pdb
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Kontroler\bin\Debug\Kontroler.dll
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Kontroler\bin\Debug\Kontroler.pdb
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Kontroler\bin\Debug\Broker.dll
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Kontroler\bin\Debug\Domen.dll
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Kontroler\bin\Debug\SistemskeOperacije.dll
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Kontroler\bin\Debug\Broker.pdb
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Kontroler\bin\Debug\Domen.pdb
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Kontroler\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Kontroler\obj\Debug\Kontroler.csprojResolveAssemblyReference.cache
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Kontroler\obj\Debug\Kontroler.csproj.CoreCompileInputs.cache
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Kontroler\obj\Debug\Kontroler.dll
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Kontroler\obj\Debug\Kontroler.pdb
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Kontroler\bin\Debug\Kontroler.dll
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Kontroler\bin\Debug\Kontroler.pdb
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Kontroler\bin\Debug\Broker.dll
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Kontroler\bin\Debug\Domen.dll
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Kontroler\bin\Debug\SistemskeOperacije.dll
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Kontroler\bin\Debug\Broker.pdb
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Kontroler\bin\Debug\Domen.pdb
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Kontroler\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Kontroler\obj\Debug\Kontroler.csprojResolveAssemblyReference.cache
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Kontroler\obj\Debug\Kontroler.csproj.CoreCompileInputs.cache
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Kontroler\obj\Debug\Kontroler.dll
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Kontroler\obj\Debug\Kontroler.pdb

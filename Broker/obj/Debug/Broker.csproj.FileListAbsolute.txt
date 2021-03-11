@@ -1,0 +1,32 @@
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Broker\bin\Debug\Broker.dll
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Broker\bin\Debug\Broker.pdb
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Broker\bin\Debug\Domen.dll
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Broker\bin\Debug\Domen.pdb
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Broker\obj\Debug\Broker.csprojResolveAssemblyReference.cache
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Broker\obj\Debug\Broker.csproj.CoreCompileInputs.cache
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Broker\obj\Debug\Broker.dll
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Broker\obj\Debug\Broker.pdb
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Broker\bin\Debug\Broker.dll
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Broker\bin\Debug\Broker.pdb
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Broker\bin\Debug\Domen.dll
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Broker\bin\Debug\Domen.pdb
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Broker\obj\Debug\Broker.csprojResolveAssemblyReference.cache
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Broker\obj\Debug\Broker.csproj.CoreCompileInputs.cache
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Broker\obj\Debug\Broker.dll
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Broker\obj\Debug\Broker.pdb
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Broker\bin\Debug\Broker.dll
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Broker\bin\Debug\Broker.pdb
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Broker\bin\Debug\Domen.dll
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Broker\bin\Debug\Domen.pdb
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Broker\obj\Debug\Broker.csprojResolveAssemblyReference.cache
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Broker\obj\Debug\Broker.csproj.CoreCompileInputs.cache
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Broker\obj\Debug\Broker.dll
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Broker\obj\Debug\Broker.pdb
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Broker\bin\Debug\Broker.dll
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Broker\bin\Debug\Broker.pdb
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Broker\bin\Debug\Domen.dll
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Broker\bin\Debug\Domen.pdb
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Broker\obj\Debug\Broker.csprojResolveAssemblyReference.cache
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Broker\obj\Debug\Broker.csproj.CoreCompileInputs.cache
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Broker\obj\Debug\Broker.dll
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Broker\obj\Debug\Broker.pdb

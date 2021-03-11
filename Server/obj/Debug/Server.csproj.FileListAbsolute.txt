@@ -1,0 +1,92 @@
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Server\bin\Debug\Server.exe.config
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Server\bin\Debug\Server.exe
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Server\bin\Debug\Server.pdb
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Server\bin\Debug\Domen.dll
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Server\bin\Debug\FlatButton.dll
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Server\bin\Debug\JDragControl.dll
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Server\bin\Debug\JImageButton.dll
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Server\bin\Debug\JThinButton.dll
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Server\bin\Debug\Kontroler.dll
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Server\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Server\bin\Debug\SistemskeOperacije.dll
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Server\bin\Debug\Broker.dll
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Server\bin\Debug\Domen.pdb
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Server\bin\Debug\Kontroler.pdb
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Server\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Server\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Server\bin\Debug\Broker.pdb
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Server\obj\Debug\Server.Poruka1.resources
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Server\obj\Debug\Server.Poruka2.resources
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Server\obj\Debug\Server.Server.resources
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Server\obj\Debug\Server.exe
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Server\obj\Debug\Server.pdb
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Server\bin\Debug\Server.exe.config
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Server\bin\Debug\Server.exe
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Server\bin\Debug\Server.pdb
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Server\bin\Debug\Domen.dll
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Server\bin\Debug\Kontroler.dll
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Server\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Server\bin\Debug\SistemskeOperacije.dll
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Server\bin\Debug\Broker.dll
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Server\bin\Debug\Domen.pdb
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Server\bin\Debug\Kontroler.pdb
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Server\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Server\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Server\bin\Debug\Broker.pdb
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Server\obj\Debug\Server.Poruka1.resources
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Server\obj\Debug\Server.Poruka2.resources
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Server\obj\Debug\Server.Server.resources
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Server\obj\Debug\Server.exe
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Server\obj\Debug\Server.pdb
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Server\bin\Debug\Server.exe.config
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Server\bin\Debug\Server.exe
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Server\bin\Debug\Server.pdb
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Server\bin\Debug\Domen.dll
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Server\bin\Debug\Kontroler.dll
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Server\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Server\bin\Debug\SistemskeOperacije.dll
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Server\bin\Debug\Broker.dll
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Server\bin\Debug\Domen.pdb
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Server\bin\Debug\Kontroler.pdb
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Server\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Server\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Server\bin\Debug\Broker.pdb
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Server\obj\Debug\Server.Poruka1.resources
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Server\obj\Debug\Server.Poruka2.resources
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Server\obj\Debug\Server.Server.resources
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Server\obj\Debug\Server.exe
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Server\obj\Debug\Server.pdb
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Server\bin\Debug\Server.exe.config
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Server\bin\Debug\Server.exe
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Server\bin\Debug\Server.pdb
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Server\bin\Debug\Domen.dll
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Server\bin\Debug\Kontroler.dll
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Server\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Server\bin\Debug\SistemskeOperacije.dll
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Server\bin\Debug\Broker.dll
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Server\bin\Debug\Domen.pdb
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Server\bin\Debug\Kontroler.pdb
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Server\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Server\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Server\bin\Debug\Broker.pdb
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Server\obj\Debug\Server.Poruka1.resources
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Server\obj\Debug\Server.Poruka2.resources
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Server\obj\Debug\Server.Server.resources
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Server\obj\Debug\Server.exe
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Server\obj\Debug\Server.pdb

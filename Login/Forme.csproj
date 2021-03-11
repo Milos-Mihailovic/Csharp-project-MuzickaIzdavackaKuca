@@ -1,0 +1,373 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{65D84B58-A10B-4DA2-AA49-0E49B844C24F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Login</RootNamespace>
+    <AssemblyName>Login</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FlatButton">
+      <HintPath>..\..\..\..\Desktop\SoftverskiSistemZaMuzičkuIzdavačkuKuću\FlatButton.dll</HintPath>
+    </Reference>
+    <Reference Include="JDragControl">
+      <HintPath>..\..\..\..\Desktop\SoftverskiSistemZaMuzičkuIzdavačkuKuću\JDragControl.dll</HintPath>
+    </Reference>
+    <Reference Include="JGradient Panel">
+      <HintPath>..\..\..\..\Desktop\SoftverskiSistemZaMuzičkuIzdavačkuKuću\JGradient Panel.dll</HintPath>
+    </Reference>
+    <Reference Include="JImageButton">
+      <HintPath>..\..\..\..\Desktop\SoftverskiSistemZaMuzičkuIzdavačkuKuću\JImageButton.dll</HintPath>
+    </Reference>
+    <Reference Include="JMaterialTextbox">
+      <HintPath>..\..\..\..\Desktop\SoftverskiSistemZaMuzičkuIzdavačkuKuću\JMaterialTextbox.dll</HintPath>
+    </Reference>
+    <Reference Include="JMetroTextBox">
+      <HintPath>..\..\..\..\Desktop\SoftverskiSistemZaMuzičkuIzdavačkuKuću\JMetroTextBox.dll</HintPath>
+    </Reference>
+    <Reference Include="JTextBox">
+      <HintPath>..\..\..\..\Desktop\SoftverskiSistemZaMuzičkuIzdavačkuKuću\JTextBox.dll</HintPath>
+    </Reference>
+    <Reference Include="JTextBox2">
+      <HintPath>..\..\..\..\Desktop\SoftverskiSistemZaMuzičkuIzdavačkuKuću\JTextBox2.dll</HintPath>
+    </Reference>
+    <Reference Include="JThinButton">
+      <HintPath>..\..\..\..\Desktop\SoftverskiSistemZaMuzičkuIzdavačkuKuću\JThinButton.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormaAlbuma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormaAlbuma.Designer.cs">
+      <DependentUpon>FormaAlbuma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormaIzmeniIzvodjaca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormaIzmeniIzvodjaca.Designer.cs">
+      <DependentUpon>FormaIzmeniIzvodjaca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormaIzmeniPesmu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormaIzmeniPesmu.Designer.cs">
+      <DependentUpon>FormaIzmeniPesmu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormaIzvodjac.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormaIzvodjac.Designer.cs">
+      <DependentUpon>FormaIzvodjac.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormaZanr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormaZanr.Designer.cs">
+      <DependentUpon>FormaZanr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GlavnaForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GlavnaForma.Designer.cs">
+      <DependentUpon>GlavnaForma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Komunikacija.cs" />
+    <Compile Include="KontrolerKI.cs" />
+    <Compile Include="FormaListaPesama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormaListaPesama.Designer.cs">
+      <DependentUpon>FormaListaPesama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormaPesma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormaPesma.Designer.cs">
+      <DependentUpon>FormaPesma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Poruke\PorukaIzađi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Poruke\PorukaIzađi.Designer.cs">
+      <DependentUpon>PorukaIzađi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Poruke\PorukaNeKreAl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Poruke\PorukaNeKreAl.Designer.cs">
+      <DependentUpon>PorukaNeKreAl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Poruke\PorukaNemaAlbuma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Poruke\PorukaNemaAlbuma.Designer.cs">
+      <DependentUpon>PorukaNemaAlbuma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Poruke\PorukaNemaPesme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Poruke\PorukaNemaPesme.Designer.cs">
+      <DependentUpon>PorukaNemaPesme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Poruke\PorukaNijeObrAl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Poruke\PorukaNijeObrAl.Designer.cs">
+      <DependentUpon>PorukaNijeObrAl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Poruke\PorukaNijeZapAl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Poruke\PorukaNijeZapAl.Designer.cs">
+      <DependentUpon>PorukaNijeZapAl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Poruke\PorukaNijeZapPes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Poruke\PorukaNijeZapPes.Designer.cs">
+      <DependentUpon>PorukaNijeZapPes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Poruke\PorukaNijeKrePes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Poruke\PorukaNijeKrePes.Designer.cs">
+      <DependentUpon>PorukaNijeKrePes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Poruke\PorukaObrisanAlbum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Poruke\PorukaObrisanAlbum.Designer.cs">
+      <DependentUpon>PorukaObrisanAlbum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PorukaObrisi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PorukaObrisi.Designer.cs">
+      <DependentUpon>PorukaObrisi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Poruke\PorukaZapAl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Poruke\PorukaZapAl.Designer.cs">
+      <DependentUpon>PorukaZapAl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Poruke\PorukaZapamtiPesmu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Poruke\PorukaZapamtiPesmu.Designer.cs">
+      <DependentUpon>PorukaZapamtiPesmu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Poruke\PorukaNemaIzv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Poruke\PorukaNemaIzv.Designer.cs">
+      <DependentUpon>PorukaNemaIzv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Poruke\PorukaNijeKreirao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Poruke\PorukaNijeKreirao.Designer.cs">
+      <DependentUpon>PorukaNijeKreirao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Poruke\PorukaNijeZapamtio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Poruke\PorukaNijeZapamtio.Designer.cs">
+      <DependentUpon>PorukaNijeZapamtio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Poruke\PorukaZapamti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Poruke\PorukaZapamti.Designer.cs">
+      <DependentUpon>PorukaZapamti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserCon\AlbumiUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserCon\AlbumiUC.Designer.cs">
+      <DependentUpon>AlbumiUC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserCon\IzvodjacUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserCon\IzvodjacUC.Designer.cs">
+      <DependentUpon>IzvodjacUC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserCon\MMStudioUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserCon\MMStudioUC.Designer.cs">
+      <DependentUpon>MMStudioUC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserCon\PesmeUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserCon\PesmeUC.Designer.cs">
+      <DependentUpon>PesmeUC.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FormaAlbuma.resx">
+      <DependentUpon>FormaAlbuma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormaIzmeniIzvodjaca.resx">
+      <DependentUpon>FormaIzmeniIzvodjaca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormaIzmeniPesmu.resx">
+      <DependentUpon>FormaIzmeniPesmu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormaIzvodjac.resx">
+      <DependentUpon>FormaIzvodjac.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormaPesma.resx">
+      <DependentUpon>FormaPesma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormaZanr.resx">
+      <DependentUpon>FormaZanr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GlavnaForma.resx">
+      <DependentUpon>GlavnaForma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormaListaPesama.resx">
+      <DependentUpon>FormaListaPesama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Poruke\PorukaIzađi.resx">
+      <DependentUpon>PorukaIzađi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Poruke\PorukaNeKreAl.resx">
+      <DependentUpon>PorukaNeKreAl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Poruke\PorukaNemaAlbuma.resx">
+      <DependentUpon>PorukaNemaAlbuma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Poruke\PorukaNemaPesme.resx">
+      <DependentUpon>PorukaNemaPesme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Poruke\PorukaNijeKrePes.resx">
+      <DependentUpon>PorukaNijeKrePes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Poruke\PorukaNijeObrAl.resx">
+      <DependentUpon>PorukaNijeObrAl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Poruke\PorukaNijeZapAl.resx">
+      <DependentUpon>PorukaNijeZapAl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Poruke\PorukaNijeZapPes.resx">
+      <DependentUpon>PorukaNijeZapPes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Poruke\PorukaObrisanAlbum.resx">
+      <DependentUpon>PorukaObrisanAlbum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PorukaObrisi.resx">
+      <DependentUpon>PorukaObrisi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Poruke\PorukaZapAl.resx">
+      <DependentUpon>PorukaZapAl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Poruke\PorukaZapamtiPesmu.resx">
+      <DependentUpon>PorukaZapamtiPesmu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Poruke\PorukaNemaIzv.resx">
+      <DependentUpon>PorukaNemaIzv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Poruke\PorukaNijeKreirao.resx">
+      <DependentUpon>PorukaNijeKreirao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Poruke\PorukaNijeZapamtio.resx">
+      <DependentUpon>PorukaNijeZapamtio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Poruke\PorukaZapamti.resx">
+      <DependentUpon>PorukaZapamti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="UserCon\AlbumiUC.resx">
+      <DependentUpon>AlbumiUC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserCon\IzvodjacUC.resx">
+      <DependentUpon>IzvodjacUC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserCon\MMStudioUC.resx">
+      <DependentUpon>MMStudioUC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserCon\PesmeUC.resx">
+      <DependentUpon>PesmeUC.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Domen\Domen.csproj">
+      <Project>{51a84a2a-672e-4f89-931f-faaab26b86bb}</Project>
+      <Name>Domen</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Kontroler\Kontroler.csproj">
+      <Project>{66F38252-6C0B-4C83-9D67-70756A08F5FD}</Project>
+      <Name>Kontroler</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

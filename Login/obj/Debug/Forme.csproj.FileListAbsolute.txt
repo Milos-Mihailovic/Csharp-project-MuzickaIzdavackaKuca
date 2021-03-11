@@ -1,0 +1,198 @@
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\bin\Debug\Login.exe.config
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\bin\Debug\Login.exe
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\bin\Debug\Login.pdb
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\bin\Debug\Domen.dll
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\bin\Debug\FlatButton.dll
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\bin\Debug\JDragControl.dll
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\bin\Debug\JGradient Panel.dll
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\bin\Debug\JImageButton.dll
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\bin\Debug\JMaterialTextbox.dll
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\bin\Debug\JMetroTextBox.dll
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\bin\Debug\JTextBox.dll
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\bin\Debug\JTextBox2.dll
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\bin\Debug\JThinButton.dll
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\bin\Debug\Kontroler.dll
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\bin\Debug\SistemskeOperacije.dll
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\bin\Debug\Broker.dll
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\bin\Debug\Domen.pdb
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\bin\Debug\Kontroler.pdb
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\bin\Debug\Broker.pdb
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\obj\Debug\Forme.csprojResolveAssemblyReference.cache
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\obj\Debug\Login.FormaAlbuma.resources
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\obj\Debug\Login.FormaIzvodjac.resources
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\obj\Debug\Login.FormaPesma.resources
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\obj\Debug\Login.GlavnaForma.resources
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Login.resources
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaIzađi.resources
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaNeKreAl.resources
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaNemaAlbuma.resources
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaNemaPesme.resources
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaNijeKrePes.resources
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaNijeObrAl.resources
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaNijeZapAl.resources
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaNijeZapPes.resources
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaObrisanAlbum.resources
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaObrisi.resources
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaZapAl.resources
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaZapamtiPesmu.resources
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.Form1.resources
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaNijeKreirao.resources
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaNijeZapamtio.resources
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\obj\Debug\Login.PorukaZapamti.resources
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\obj\Debug\Login.UserCon.AlbumiUC.resources
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\obj\Debug\Login.UserCon.IzvodjacUC.resources
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\obj\Debug\Login.UserCon.MMStudioUC.resources
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\obj\Debug\Login.UserCon.PesmeUC.resources
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\obj\Debug\Forme.csproj.GenerateResource.Cache
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\obj\Debug\Forme.csproj.CoreCompileInputs.cache
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\obj\Debug\Login.exe
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\obj\Debug\Login.pdb
+C:\Users\Milos\source\repos\MuzickaIzdavackaKuca\Login\obj\Debug\Login.FormaZanr.resources
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Login\bin\Debug\Login.exe.config
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Login\bin\Debug\Login.exe
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Login\bin\Debug\Login.pdb
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Login\bin\Debug\Domen.dll
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Login\bin\Debug\Kontroler.dll
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Login\bin\Debug\SistemskeOperacije.dll
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Login\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Login\bin\Debug\Broker.dll
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Login\bin\Debug\Domen.pdb
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Login\bin\Debug\Kontroler.pdb
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Login\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Login\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Login\bin\Debug\Broker.pdb
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Forme.csprojResolveAssemblyReference.cache
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.FormaAlbuma.resources
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.FormaIzvodjac.resources
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.FormaPesma.resources
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.FormaZanr.resources
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.GlavnaForma.resources
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Login.resources
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaIzađi.resources
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaNeKreAl.resources
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaNemaAlbuma.resources
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaNemaPesme.resources
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaNijeKrePes.resources
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaNijeObrAl.resources
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaNijeZapAl.resources
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaNijeZapPes.resources
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaObrisanAlbum.resources
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaObrisi.resources
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaZapAl.resources
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaZapamtiPesmu.resources
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.Form1.resources
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaNijeKreirao.resources
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaNijeZapamtio.resources
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.PorukaZapamti.resources
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.UserCon.AlbumiUC.resources
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.UserCon.IzvodjacUC.resources
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.UserCon.MMStudioUC.resources
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.UserCon.PesmeUC.resources
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Forme.csproj.GenerateResource.Cache
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Forme.csproj.CoreCompileInputs.cache
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.exe
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.pdb
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.FormaIzmeniIzvodjaca.resources
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.FormaIzmeniPesmu.resources
+C:\Users\Milos\source\repos\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.FormaListaPesama.resources
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\bin\Debug\Login.exe.config
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\bin\Debug\Login.exe
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\bin\Debug\Login.pdb
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\bin\Debug\Domen.dll
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\bin\Debug\Kontroler.dll
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\bin\Debug\SistemskeOperacije.dll
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\bin\Debug\Broker.dll
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\bin\Debug\Domen.pdb
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\bin\Debug\Kontroler.pdb
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\bin\Debug\Broker.pdb
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Forme.csprojResolveAssemblyReference.cache
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.FormaAlbuma.resources
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.FormaIzmeniIzvodjaca.resources
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.FormaIzmeniPesmu.resources
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.FormaIzvodjac.resources
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.FormaPesma.resources
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.FormaZanr.resources
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.GlavnaForma.resources
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.FormaListaPesama.resources
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Login.resources
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaIzađi.resources
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaNeKreAl.resources
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaNemaAlbuma.resources
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaNemaPesme.resources
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaNijeKrePes.resources
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaNijeObrAl.resources
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaNijeZapAl.resources
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaNijeZapPes.resources
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaObrisanAlbum.resources
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaObrisi.resources
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaZapAl.resources
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaZapamtiPesmu.resources
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.Form1.resources
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaNijeKreirao.resources
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaNijeZapamtio.resources
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.PorukaZapamti.resources
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.UserCon.AlbumiUC.resources
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.UserCon.IzvodjacUC.resources
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.UserCon.MMStudioUC.resources
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.UserCon.PesmeUC.resources
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Forme.csproj.GenerateResource.Cache
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Forme.csproj.CoreCompileInputs.cache
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.exe
+C:\Users\Milos\Desktop\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.pdb
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\bin\Debug\Login.exe.config
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\bin\Debug\Login.exe
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\bin\Debug\Login.pdb
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\bin\Debug\Domen.dll
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\bin\Debug\Kontroler.dll
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\bin\Debug\SistemskeOperacije.dll
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\bin\Debug\Broker.dll
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\bin\Debug\Domen.pdb
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\bin\Debug\Kontroler.pdb
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\bin\Debug\Broker.pdb
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Forme.csprojResolveAssemblyReference.cache
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.FormaAlbuma.resources
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.FormaIzmeniIzvodjaca.resources
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.FormaIzmeniPesmu.resources
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.FormaIzvodjac.resources
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.FormaPesma.resources
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.FormaZanr.resources
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.GlavnaForma.resources
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.FormaListaPesama.resources
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Login.resources
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaIzađi.resources
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaNeKreAl.resources
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaNemaAlbuma.resources
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaNemaPesme.resources
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaNijeKrePes.resources
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaNijeObrAl.resources
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaNijeZapAl.resources
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaNijeZapPes.resources
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaObrisanAlbum.resources
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaObrisi.resources
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaZapAl.resources
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaZapamtiPesmu.resources
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.Form1.resources
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaNijeKreirao.resources
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Poruke.PorukaNijeZapamtio.resources
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.PorukaZapamti.resources
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.UserCon.AlbumiUC.resources
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.UserCon.IzvodjacUC.resources
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.UserCon.MMStudioUC.resources
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.UserCon.PesmeUC.resources
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Forme.csproj.GenerateResource.Cache
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Forme.csproj.CoreCompileInputs.cache
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.exe
+C:\Users\Milos\ФОН 4. година\Softveri\projekatPS\MuzickaIzdavackaKuca\Login\obj\Debug\Login.pdb
